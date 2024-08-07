@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Theknight2015",
+  "repo": "container-0q6jqio",
+  "name": "Theknight2015",
+  "email": "bgkyct@yahoo.com",
+}
